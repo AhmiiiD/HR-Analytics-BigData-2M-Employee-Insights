@@ -72,4 +72,4 @@ This project delivers a scalable workflow that helps organizations:
 *   Review internal equity and salary distribution.
 
 ---
-*Created by Ahmed - HR Data Analytics Project*
+*Created by AhmiiiD - Data Analytics Project*
